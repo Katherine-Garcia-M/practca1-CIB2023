@@ -1,1 +1,1 @@
-# practca1-CIB2023
+# práctica1-CIB2023
